@@ -1,0 +1,8 @@
+aiogram
+groq
+aiohttp
+pypdf
+python-docx
+Pillow
+Flask
+pydantic
